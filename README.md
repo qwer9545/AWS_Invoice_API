@@ -57,7 +57,7 @@ Get Invoice PDF API는 미국 동부(버지니아 북부) 리전에서 사용할
 <img width="871" height="518" alt="image" src="https://github.com/user-attachments/assets/798e393f-3064-4851-a7a7-5320d24a49f2" />
 
 앱을 실행한 후 브라우저에서 `http://localhost:5000`으로 접속합니다.
-# 각자 배포 방식에 맞는 방법으로 실행하시면 됩니다.
+**각자 배포 방식에 맞는 방법으로 실행하시면 됩니다.**
 
 ### 1. 사전 준비 (IAM 권한)
 사전에 액세스 키 발급과 Billing에 관련된 권한 정책이 필요합니다.
@@ -72,7 +72,8 @@ Get Invoice PDF API는 미국 동부(버지니아 북부) 리전에서 사용할
 ```
 
 <img width="1112" height="175" alt="image" src="https://github.com/user-attachments/assets/5f8db6c4-9c00-4877-b4f6-91bf1d18269c" />
-<img width="1755" height="485" alt="image" src="https://github.com/user-attachments/assets/5a4679ba-7803-4778-ad64-b57440add304" />
+<img width="1881" height="690" alt="image" src="https://github.com/user-attachments/assets/32cb8de9-90d2-4db9-a5b9-bb69461b2b17" />
+
 
 ### 2. 로그인 및 조회
 1. 접속하고자 하는 IAM 계정의 **Access Key ID**를 입력합니다.
